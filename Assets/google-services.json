@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "firebase_url": "null",
+    "project_number": "848785814083",
+    "project_id": "fsm-ip36",
+    "storage_bucket": "fsm-ip36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848785814083:android:5e501610bbc7f27c14daf6",
+        "android_client_info": {
+          "package_name": "com.fsm.FSMIP36"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848785814083-qad1jc4thd4qap32r7ivco1i7gsjiche.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZN1iOr_08t-AY1f61ofaaxgA096spxU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848785814083-qad1jc4thd4qap32r7ivco1i7gsjiche.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
